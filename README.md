@@ -1,25 +1,40 @@
-# T20Best11
+#T20Best11
+<h1 align="center">🚀 Bright Data → Python → Power BI: End-to-End Insight Engine ⚙️📈</h1>
 
-## 🧠 Overview
+<p align="center">
+  <img src="https://img.shields.io/badge/Web%20Scraping-Bright%20Data-blue?style=for-the-badge&logo=web&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Cleaning-Pandas-yellow?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/ETL-Power%20Query-green?style=for-the-badge&logo=microsoftpowerbi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Modeling-DAX-purple?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visualization-Power%20BI-orange?style=for-the-badge&logo=powerbi&logoColor=white" />
+</p>
 
-This project demonstrates an end-to-end data pipeline starting from web scraping using **Bright Data**, to **data cleaning and transformation** in **Python (Pandas)**, further data transformation in **Power Query**, and **data modeling with DAX**. Finally, the data is visualized through interactive **Power BI dashboards** to extract meaningful insights.
+---
 
-## 🚀 Key Features
+<p align="center">
+  <img src="https://media.giphy.com/media/l41YgVjU5f2I5KkTC/giphy.gif" width="300"/>
+</p>
 
-- 🌐 **Web Scraping** using Bright Data to collect raw data from online sources.
-- 🧹 **Data Cleaning & Transformation** with Python and Pandas.
-- 🔄 **Power Query** for additional transformation and shaping.
-- 🧮 **Data Modeling** and **Parameter Building** using DAX.
-- 📊 **Power BI Dashboards** for powerful, interactive visualizations.
-- 📈 Extracted actionable **insights** for business/data analysis purposes.
+---
 
-## 🛠️ Tech Stack
+## 📊✨ Project Summary
 
-- **Bright Data** – Web scraping and data collection
-- **Python (Pandas)** – Data cleaning and transformation
-- **Power Query** – Data transformation in Power BI
-- **DAX (Data Analysis Expressions)** – Data modeling and measures
-- **Power BI** – Dashboard creation and data visualization
+🚧 **Goal**: Build a powerful data pipeline that turns **web data** into **actionable insights**.
 
-## 📂 Project Structure
+🧩 **Tools**:
+- 🌐 `Bright Data` – scrape real-time, structured data from websites
+- 🐍 `Python (Pandas)` – clean, wrangle, and preprocess raw data
+- 🔄 `Power Query` – refine and shape datasets inside Power BI
+- 🧠 `DAX` – define relationships, KPIs, and dynamic logic
+- 📊 `Power BI` – build stunning dashboards with slicers, filters, and visuals
 
+---
+
+## 🔁 Pipeline Simulation
+
+```mermaid
+graph TD;
+    A[🌐 Bright Data<br>Web Scraping] --> B[🐍 Pandas<br>Data Cleaning];
+    B --> C[🔄 Power Query<br>Transformation];
+    C --> D[🧠 DAX<br>Modeling & Metrics];
+    D --> E[📊 Power BI<br>Dashboards & Insights];
